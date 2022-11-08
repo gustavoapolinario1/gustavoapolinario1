@@ -1,4 +1,8 @@
 ### Oi, eu sou Gustavo Apolinario 👋
+##### Análise e Desenvolvimento de Sistemas
+##### tenho interesse em inicialmente em Desenvolvimento Web e Sistemas
+##### Estou estudando HTML, CSS e JavaScript
+
 
 ##
 
